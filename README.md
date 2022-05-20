@@ -1,2 +1,2 @@
 # Morsecode
-the program can convert english alphabet in Morse, words and sentences
+программа переводит латиницу в азбуку морзе, пока что не умеет игнорировать знаки препинания
